@@ -70,13 +70,13 @@ Reste Net annuel = 70.000€ (109.000€ - 24.000€ - 15.000€)
 soit environs 5.830€/mois   
 (contre un CDI autour de 2.500 - 3.000€/mois net)   
 
-Au final il vous reste 
+Au final il vous reste    
 <!--AJOUTER DECLA ANONYMISE--->  
-- Fiscalité
-Entre les 3 statut de freelance (CDI de portage, Micro entreprise, Entreprise classique (EURL, SASU, SARL, EI..)  
-} CDI de portage: salaire ~1,5x supérieur, gros montant de chomage, grosse retraite
-} Micro entreprise: salaire ~2x supérieur, pas de chomage, faible retraite, très peu de defiscalisation de frais possible
-} Entreprise classique: revenus ~1,80x supérieur, faible retraite, beaucoup d'administratif, nombreuses optimisations fiscales possibles (exemple: forte defiscalisation de frais (impot transformé en capital)).
+- Fiscalité   
+Entre les 3 statut de freelance (CDI de portage, Micro entreprise, Entreprise classique (EURL, SASU, SARL, EI..)     
+} CDI de portage: salaire ~1,5x supérieur, gros montant de chomage, grosse retraite   
+} Micro entreprise: salaire ~2x supérieur, pas de chomage, faible retraite, très peu de defiscalisation de frais possible   
+} Entreprise classique: revenus ~1,80x supérieur, faible retraite, beaucoup d'administratif, nombreuses optimisations fiscales possibles (exemple: forte defiscalisation de frais (impot transformé en capital)).   
 
 ## Astuce et précautions
 
