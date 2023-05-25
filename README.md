@@ -50,14 +50,14 @@ Puis j'archive dans mon cloud ces précieux documents
 <!--**AJOUTER SCREEN** -->  
 On ne déclare ses revenus et ne paye ses impots **que sur l'argent déjà perçu** (reçu dans son compte) (on ne paye pas ses impots en avance, attention aux défauts de paiement !!).
 
-1) Microentreprise (Régime simplifié) et Charges sociales (~22% HT)
+1) Microentreprise (Régime simplifié) et Charges sociales (~22% HT)   
 Chaque trimestre (1er avril/juillet/octobre/janvier), je regarde mon compte bancaire, j'identifie les 3 gros virements que j'ai reçu, je retrouve les factures associées dans mes archives, je fais la somme des 3 montants HT, je déclare sur le site https://autoentrepreneur.urssaf.fr/ (Régime Cipave) et je paye instantanément 22,7% de ce montant en carte bancaire.  
 
-2) Impot sur le revenus (IR)(Impot des salaires net ~(HT*0,65*0,2)) et TVA (à rendre 100% TVA(- frais))
-Perso j'ai pris un expert comptable, ça coute 400€/an et au delà de faciliter la vie, ça permet de ne pas avoir la responsabilité de sa comptabilité: si l'expert comptable se trompe c'est lui qui trinque (diff expert-comptable et comptable).  
-Déclaration: Chaque année votre comptable vous posera des questions sur vos revenus, vos frais et fera la déclaration TVA et IR.  
-Le remboursement de la TVA vous sera prélevé en 2 fois chaque année, attention à ne pas être surpris c'ce sont deux gros prélèvements d'environs 10.000€
-2bis) si votre revenu fiscal de reference N-2 est < à 26K vous pouvez réduire votre IR à 1% via l'option à la création de l'entreprise "paiement libératoire de l'IR"
+2) Impot sur le revenus (IR)(Impot des salaires net ~(HT*0,65*0,2)) et TVA (à rendre 100% TVA(- frais))   
+Perso j'ai pris un expert comptable, ça coute 400€/an et au delà de faciliter la vie, ça permet de ne pas avoir la responsabilité de sa comptabilité: si l'expert comptable se trompe c'est lui qui trinque (diff expert-comptable et comptable).     
+Déclaration: Chaque année votre comptable vous posera des questions sur vos revenus, vos frais et fera la déclaration TVA et IR.     
+Le remboursement de la TVA vous sera prélevé en 2 fois chaque année, attention à ne pas être surpris c'ce sont deux gros prélèvements d'environs 10.000€   
+2bis) si votre revenu fiscal de reference N-2 est < à 26K vous pouvez réduire votre IR à 1% via l'option à la création de l'entreprise "paiement libératoire de l'IR"   
 
 Exemple de situation Microentreprise:   
 TJM = 500€ HT + 100€ TVA   
