@@ -59,16 +59,16 @@ Déclaration: Chaque année votre comptable vous posera des questions sur vos re
 Le remboursement de la TVA vous sera prélevé en 2 fois chaque année, attention à ne pas être surpris c'ce sont deux gros prélèvements d'environs 10.000€
 2bis) si votre revenu fiscal de reference N-2 est < à 26K vous pouvez réduire votre IR à 1% via l'option à la création de l'entreprise "paiement libératoire de l'IR"
 
-Exemple de situation Microentreprise:
-TJM = 500€ HT + 100€ TVA
-Jours travaillés 18,2/mois, 218j/ans soit 7 semaines de vances.
-HT Annuel = 109.000€ HT (CA) (500€ * 218 j)
-TVA à rendre 21.800€ TVA (130.800€ TTC)
-Impots sociétés = 24.000€ (0,22 * 109.000€)
-Impots du le revenu = 15.000€ (0,14 (IR) * 0,66 (Abattement) * 109.000€)
-Reste Net annuel = 70.000€ (109.000€ - 24.000€ - 15.000€) 
-soit environs 5.830€/mois
-(contre un CDI autour de 2.500 - 3.000€/mois net)
+Exemple de situation Microentreprise:   
+TJM = 500€ HT + 100€ TVA   
+Jours travaillés 18,2/mois, 218j/ans soit 7 semaines de vances.   
+HT Annuel = 109.000€ HT (CA) (500€ * 218 j)   
+TVA à rendre 21.800€ TVA (130.800€ TTC)   
+Impots sociétés = 24.000€ (0,22 * 109.000€)   
+Impots du le revenu = 15.000€ (0,14 (IR) * 0,66 (Abattement) * 109.000€)   
+Reste Net annuel = 70.000€ (109.000€ - 24.000€ - 15.000€)    
+soit environs 5.830€/mois   
+(contre un CDI autour de 2.500 - 3.000€/mois net)   
 
 Au final il vous reste 
 <!--AJOUTER DECLA ANONYMISE--->  
